@@ -1,9 +1,4 @@
 
-  Home, BookOpen, Library as LibraryIcon, ScanLine, MessageCircle, User, Play, Square, Lock, Check, X,
-  ChevronLeft, ChevronRight, Sparkles, Moon, Sun, Mic, MicOff, Flame, Upload, Music, Crown, Share2,
-  RefreshCw, Send, Target, Wand2, Plus, Shuffle, GraduationCap, TrendingUp, Headphones, Layers,
-} from "lucide-react";
-
 /* ───────────────────────── THEME ───────────────────────── */
 const THEMES = {
   light: { bg: "#F9F6F0", surface: "#FFFFFF", sage: "#E2E9E1", text: "#3D2E24", muted: "#7B6B5F", accent: "#5C4033", ui: "#8A9A86", line: "#E6DFD2", good: "#4F6B4A", bad: "#A4523F", onAccent: "#F9F6F0", keyWhite: "#FFFDF8", keyBlack: "#3D2E24" },
