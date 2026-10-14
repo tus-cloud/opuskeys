@@ -1682,3 +1682,4 @@ export default function App() {
     </div>
   );
 }
+window.App = App;
