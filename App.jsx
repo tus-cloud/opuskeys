@@ -1,5 +1,4 @@
-import React, { useState, useEffect, useRef, useCallback, useMemo } from "react";
-import {
+
   Home, BookOpen, Library as LibraryIcon, ScanLine, MessageCircle, User, Play, Square, Lock, Check, X,
   ChevronLeft, ChevronRight, Sparkles, Moon, Sun, Mic, MicOff, Flame, Upload, Music, Crown, Share2,
   RefreshCw, Send, Target, Wand2, Plus, Shuffle, GraduationCap, TrendingUp, Headphones, Layers,
